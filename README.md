@@ -24,7 +24,7 @@ Valeu por colar no perfil! ✌️
 <h1 align="center">Fala aí! 👋</h1>
 
 <p align="center">
- ronaudo
+ ...
 </p>
 
 ---
