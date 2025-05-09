@@ -4,13 +4,13 @@ Beleza? Sou um dev do RJ que curte muito programar e botar a mão na massa com c
 
 ## 🧠 Um pouco sobre mim
 
-Tô na estrada da programação faz um tempinho, e hoje em dia tô mandando bem com:
+Tô na estrada da programação faz um tempinho, e hoje em dia tô indo bem com:
 
-- 🟣 **Lua** — uso direto pra scripts, automações e uns projetinhos maneiros.
-- 🌐 **HTML** — criando estrutura de sites na tranquilidade.
+- 🟣 **Lua** — uso direto pra scripts, APIS e uns projetinhos maneiros.
+- 🌐 **HTML** — criando estrutura de sites.
 
-No momento tô **mergulhando de cabeça no JavaScript** 🟨  
-Quero deixar meus sites mais vivos, dinâmicos e interativos!
+No momento tô **Estudando sobre JavaScript** 🟨  
+Quero deixar meus sites mais vivos, dinâmicos e interativos
 
 ## 🚀 Tô sempre aprendendo
 
