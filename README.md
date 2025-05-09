@@ -29,7 +29,7 @@ Valeu por colar no perfil! ✌️
 
 ---
 
-## 🧠 Sobre mim
+## ...
 
 ```lua
 Dev = {
